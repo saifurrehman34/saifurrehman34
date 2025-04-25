@@ -12,15 +12,24 @@
     https://flagcdn.com/48x36/pk.png 3x"
   width="16"
   height="12"
-  alt="Pakistan"><b>Faisalabad, Punjab, Pakistan</b>.</p>
+  alt="Pakistan"><b> Faisalabad, Punjab, Pakistan</b>.</p>
  <img align="" width="1000" height="100" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg">
    <br>
   
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifurrehman34&label=Profile%20views&color=0e75b6&style=flat" alt="saifurrehman34" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saifurrehman34" alt="saifurrehman34" /></a> </p>
+
+- 🔭 I’m currently working on [learning management system](http://brainanalytics.pk/)
+
+- 👯 I’m looking to collaborate on **multi-vendor e commerce**
+
+
   <img src="https://komarev.com/ghpvc/?username=rickxy&label=Profile%20views&color=0e75b6&style=flat" alt="rickxy" /> </p>
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rickxy&margin-w=15" alt="rickxy" /></a> 
   <p aligh="left">
   💡 &nbsp;I love the outdoors but you'll probably find me sitted somewhere typing away some code. <br>
-  🚧 &nbsp;I'm currently doing awesome projects at <a href="https://protech254.co.ke" target="_blank"><u>ProTech Corporation!</u></a>  <br>
+  🚧 &nbsp;I'm currently doing awesome projects at <a href="http://brainanalytics.pk" target="_blank"><u>Brain Analytics!</u></a>  <br>
   💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
 </p>
 <br>
@@ -59,11 +68,12 @@
 
 <h2>🌎 &nbsp;Where to find me</h2>
 <p>
-  <a href="https://ke.linkedin.com/in/erick-omundi-a71761145" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="https://twitter.com/erick_omundi/status/1395627692561682432" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-  <a href="mailto:erico@protrch.co.ke" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/saifurrehman4/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:en.saifurrehman@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </p>
+
+
 
 <h2>📈 &nbsp;Some Github Stats</h2>
 <span align="left">
