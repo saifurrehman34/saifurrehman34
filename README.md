@@ -64,15 +64,21 @@
 
 </p>
 
+<h2>📈 &nbsp;Support me</h2>
+<p><a href="https://www.buymeacoffee.com/saifurrehman34"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="saifurrehman34" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saifurrehman34&show_icons=true&locale=en&layout=compact" alt="saifurrehman34" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saifurrehman34&show_icons=true&locale=en" alt="saifurrehman34" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saifurrehman34&" alt="saifurrehman34" /></p>
 
 
 <h2>📈 &nbsp;Some Github Stats</h2>
 <span align="left">
   <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=saifurrehman34&show_icons=true&locale=en&layout=compact" alt="saifurrehman34" /></p>
   
-![Erick O. Omundi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saifurrehman34&show_icons=true&hide_border=true&bg_color=152238&title_color=00E6FE&icon_color=00E6FE&text_color=00E6FE)
+![Saif Ur Rehman's Stats](https://github-readme-stats.vercel.app/api?username=saifurrehman34&show_icons=true&hide_border=true&bg_color=152238&title_color=00E6FE&icon_color=00E6FE&text_color=00E6FE)
 </span>
-<span align="right">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saifurrehman34&theme=black)](https://git.io/streak-stats)
-</span>
+
