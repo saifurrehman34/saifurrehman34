@@ -2,17 +2,17 @@
 
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
 
-# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Erick O. Omundi</b>
+# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Saif Ur Rehman</b>
 <img align="right" style="height:auto;" alt="" width="180" class="avatar avatar-user width-full border color-bg-primary" src="#">
 <p aligh="left">
   <p>Hey there, welcome!</br>
-  I'm Erick O. Omundi, Apps Developer (Web Apps and Android Apps) from <img
-  src="https://flagcdn.com/16x12/ke.png"
-  srcset="https://flagcdn.com/32x24/ke.png 2x,
-    https://flagcdn.com/48x36/ke.png 3x"
+  I'm Saif Ur Rehman, Full Stack Developer (Web Apps and Android Apps) from <img
+  src="https://flagcdn.com/16x12/pk.png"
+  srcset="https://flagcdn.com/32x24/pk.png 2x,
+    https://flagcdn.com/48x36/pk.png 3x"
   width="16"
   height="12"
-  alt="Kenya"> <b>Nairobi and Kisii, Kenya</b>.</p>
+  alt="Pakistan"><b>Faisalabad, Punjab, Pakistan</b>.</p>
  <img align="" width="1000" height="100" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg">
    <br>
   
@@ -73,5 +73,5 @@
 </span>
 <span align="right">
 
-![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rickxy&hide_border=true&theme=black-ice&background=152238&stroke=00E6FE)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saifurrehman34&theme=blue-navy)](https://git.io/streak-stats)
 </span>
