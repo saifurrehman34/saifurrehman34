@@ -20,7 +20,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saifurrehman34" alt="saifurrehman34" /></a> 
   <p aligh="left">
   💡 &nbsp;I love the outdoors but you'll probably find me sitted somewhere typing away some code. <br>
-  🚧 &nbsp;I'm currently doing awesome projects at <a href="http://brainanalytics.pk" target="_blank"><u>Brain Analytics!</u></a>  <br>
+  🚧 &nbsp;I'm currently doing awesome projects at <a href="http://brainanalytics.pk/" target="_blank"><u>Brain Analytics!</u></a>  <br>
   💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
 </p>
 <br>
@@ -68,11 +68,11 @@
 
 <h2>📈 &nbsp;Some Github Stats</h2>
 <span align="left">
-  <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=rickxy&show_icons=true&locale=en&layout=compact" alt="rickxy" /></p>
+  <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=saifurrehman34&show_icons=true&locale=en&layout=compact" alt="saifurrehman34" /></p>
   
-![Erick O. Omundi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rickxy&show_icons=true&hide_border=true&bg_color=152238&title_color=00E6FE&icon_color=00E6FE&text_color=00E6FE)
+![Erick O. Omundi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saifurrehman34&show_icons=true&hide_border=true&bg_color=152238&title_color=00E6FE&icon_color=00E6FE&text_color=00E6FE)
 </span>
 <span align="right">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saifurrehman34&theme=blue-navy)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saifurrehman34&theme=black)](https://git.io/streak-stats)
 </span>
