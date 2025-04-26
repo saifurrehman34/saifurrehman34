@@ -60,10 +60,9 @@
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
->
-
-</p>
 <br />
+  <br /><br /><br />
+</p>
 
 <h2>📈 &nbsp;Support me</h2>
 <p><a href="https://www.buymeacoffee.com/saifurrehman34"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="saifurrehman34" /></a></p><br><br>
@@ -74,5 +73,3 @@
   <img src="https://streak-stats.demolab.com?user=saifurrehman34&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saifurrehman34&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </span>
-<br />
-
