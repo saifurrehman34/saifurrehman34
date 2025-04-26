@@ -62,7 +62,7 @@
 <br />
 
 <h2>📈 &nbsp;Support me</h2>
-<p><a href="https://www.buymeacoffee.com/saifurrehman34"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="210" alt="saifurrehman34" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/saifurrehman34"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="190" alt="saifurrehman34" /></a></p><br><br>
 <br />
 <h2>📈 &nbsp;Some Github Stats</h2>
 <span align="left">
