@@ -16,9 +16,7 @@
  <img align="" width="1000" height="100" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg">
    <br>
   
-  <img src="https://komarev.com/ghpvc/?username=saifurrehman34&label=Profile%20views&color=0e75b6&style=flat" alt="saifurrehman34" /> </p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saifurrehman34" alt="saifurrehman34" /></a> 
-  <p aligh="left">
+  <img src="https://komarev.com/ghpvc/?username=saifurrehman34&label=Profile%20views&color=0e75b6&style=flat" alt="saifurrehman34" /> </p
   💡 &nbsp;I love the outdoors but you'll probably find me sitted somewhere typing away some code. <br>
   🚧 &nbsp;I'm currently doing awesome projects at <a href="http://brainanalytics.pk/" target="_blank"><u>Brain Analytics!</u></a>  <br>
   💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
@@ -74,4 +72,29 @@
 ![Saif Ur Rehman's Stats](https://github-readme-stats.vercel.app/api?username=saifurrehman34&show_icons=true&hide_border=true&bg_color=152238&title_color=00E6FE&icon_color=00E6FE&text_color=00E6FE)
 </span>
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saifurrehman34&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saifurrehman34&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=saifurrehman34&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=saifurrehman34&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saifurrehman34&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/saifurrehman34/saifurrehman34/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
+</div>
+
+###
 
