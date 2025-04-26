@@ -121,12 +121,11 @@
 <p><a href="https://www.buymeacoffee.com/saifurrehman34"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="180" alt="saifurrehman34" /></a></p><br><br>
 <br />
 <h2>📈 &nbsp;Some Github Stats</h2>
-<span align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saifurrehman34&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=saifurrehman34&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saifurrehman34&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
-</span>
-
-<img src="https://raw.githubusercontent.com/saifurrehman34/saifurrehman34/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saifurrehman34&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saifurrehman34&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=saifurrehman34&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saifurrehman34&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
