@@ -23,7 +23,7 @@
 </p>
 <br>
 
-<img alt="writing codes" width='1300' height='500' align="center" src="https://media1.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=ecf05e47o2ggol62o8sbe63ur5tr90j2vv3z7cs7am4if89k&rid=giphy.gif&ct=g">
+<img src="https://github-profile-trophy.vercel.app?username=saifurrehman34&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 <br clear='all'/>
 
 <h2>👨🏻‍💻 &nbsp;Development Tools And Environments:</h2>
@@ -70,34 +70,8 @@
 
 <h2>📈 &nbsp;Some Github Stats</h2>
 <span align="left">
-  <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=saifurrehman34&show_icons=true&locale=en&layout=compact" alt="saifurrehman34" /></p>
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saifurrehman34&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=saifurrehman34&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=saifurrehman34&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saifurrehman34&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
-  
-![Saif Ur Rehman's Stats](https://github-readme-stats.vercel.app/api?username=saifurrehman34&show_icons=true&hide_border=true&bg_color=152238&title_color=00E6FE&icon_color=00E6FE&text_color=00E6FE)
 </span>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saifurrehman34&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saifurrehman34&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=saifurrehman34&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=saifurrehman34&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saifurrehman34&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/saifurrehman34/saifurrehman34/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-
-
-###
 
