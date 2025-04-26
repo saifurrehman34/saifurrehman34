@@ -70,3 +70,7 @@
   <img src="https://streak-stats.demolab.com?user=saifurrehman34&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saifurrehman34&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </span>
+
+<img src="https://raw.githubusercontent.com/saifurrehman34/saifurrehman34/output/snake.svg" alt="Snake animation" />
+
+###
