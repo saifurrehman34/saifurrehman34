@@ -140,3 +140,9 @@
 </div>
 
 ###
+
+📈 GitHub Stats
+
+![Saif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saifurrehman34&show_icons=true&count_private=true&theme=default)
+
+> 🔒 Private contributions are also included in the stats above.
