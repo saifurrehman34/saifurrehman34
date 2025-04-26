@@ -14,15 +14,13 @@
   height="12"
   alt="Pakistan"><b> Faisalabad, Punjab, Pakistan</b>.</p>
  <img align="" width="1000" height="100" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg">
-   <br>
-  
+   <br />
   <img src="https://komarev.com/ghpvc/?username=saifurrehman34&label=Profile%20views&color=0e75b6&style=flat" alt="saifurrehman34" />
   💡 &nbsp;I love the outdoors but you'll probably find me sitted somewhere typing away some code. <br>
   🚧 &nbsp;I'm currently doing awesome projects at <a href="http://brainanalytics.pk/" target="_blank"><u>Brain Analytics!</u></a>  <br>
   💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
 </p>
 <br>
-
 <img src="https://github-profile-trophy.vercel.app?username=saifurrehman34&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 <br clear='all'/>
 
@@ -54,6 +52,7 @@
     <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
 </p>
+<br />
 
 <h2>🌎 &nbsp;Where to find me</h2>
 <p>
@@ -64,6 +63,7 @@
 >
 
 </p>
+<br />
 
 <h2>📈 &nbsp;Support me</h2>
 <p><a href="https://www.buymeacoffee.com/saifurrehman34"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="saifurrehman34" /></a></p><br><br>
@@ -74,4 +74,5 @@
   <img src="https://streak-stats.demolab.com?user=saifurrehman34&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saifurrehman34&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </span>
+<br />
 
